@@ -1,0 +1,30 @@
+{
+    "nsx39": {
+        "chorus": 93,
+        "express": 11,
+        "gain": 7,
+        "modulation": 1,
+        "pan": 10,
+        "reverb": 91,
+        "sustain": 64,
+        "variation": 94
+    },
+    "NUX_TapeEcho": {
+        "enable": 0,
+        "position": 1,
+        "saturation": 2,
+        "wow": 3,
+        "flutter": 4,
+        "killdry": 5,
+        "time": 6,
+        "repeat": 7,
+        "level": 8,
+        "reverb": 9,
+        "bass": 10,
+        "treble": 11,
+        "exp": 12,
+        "age": 13,
+        "rount": 14,
+        "sync": 15
+    }
+}
